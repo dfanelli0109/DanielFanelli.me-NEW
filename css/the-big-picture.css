@@ -11,6 +11,11 @@ body {
   -o-background-size: cover;
 }
 
+#body1 {
+	
+	
+	background: #027ba9;
+}
 #topheader {
 	height: 100px;
     color: white;
